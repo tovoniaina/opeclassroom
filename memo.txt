@@ -1,0 +1,7 @@
+$ git add index.html
+$ git add styles.css
+git commit -m “Ajout des fichiers html et css de base”
+git remote add origin https://github.com/EtudiantOC/OpenclassroomsProject.git => lier un repo local avec online
+git remote set-url origin https://github.com/your/repository => Change de repo online
+git branch -M main => Définir comme branch main (master)
+git push -u origin main
